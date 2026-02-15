@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sailee/Documents/GitHub/Labs/Github_Labs/Lab2/mlruns/168885474696287085/08dcd3e58006429a97114d16ff7c4d44/artifacts
+end_time: 1759792109602
+entry_point_name: ''
+experiment_id: '168885474696287085'
+lifecycle_stage: active
+run_id: 08dcd3e58006429a97114d16ff7c4d44
+run_name: Synthetic Classification Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759792099647
+status: 3
+tags: []
+user_id: Sailee

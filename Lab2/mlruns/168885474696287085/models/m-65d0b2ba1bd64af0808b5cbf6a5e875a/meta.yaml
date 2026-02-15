@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Sailee/Documents/GitHub/Labs/Github_Labs/Lab2/mlruns/168885474696287085/models/m-65d0b2ba1bd64af0808b5cbf6a5e875a/artifacts
+creation_timestamp: 1759792099797
+experiment_id: '168885474696287085'
+last_updated_timestamp: 1759792109584
+model_id: m-65d0b2ba1bd64af0808b5cbf6a5e875a
+model_type: null
+name: LogisticRegressionModel
+source_run_id: 08dcd3e58006429a97114d16ff7c4d44
+status: 2
+status_message: null
